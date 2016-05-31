@@ -2,5 +2,11 @@
 @import "bower_components/bootstrap/scss/bootstrap-flex";
 // endbower
 
-// variables
-// ---------
+@import "variables";
+@import "global";
+@import "base";
+@import "header";
+@import "base";
+@import "cover";
+@import "footer";
+@import "responsive";

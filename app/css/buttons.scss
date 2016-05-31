@@ -1,0 +1,13 @@
+@import 'variables';
+
+// BUTTONS
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: $dark;
+  border: .05rem solid $white;
+  color: $dark;
+  text-shadow: none;
+}
