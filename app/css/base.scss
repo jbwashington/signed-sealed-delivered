@@ -1,14 +1,5 @@
 @import 'variables';
 
-html,
 body {
-  background: url('//placekitten.com/g/1920/1920/') no-repeat center center scroll;
-  background-color: $dark;
-  height: 100%;
-}
-
-body {
-  color: $white;
-  text-align: center;
-  text-shadow: 0 .05rem .1rem $black;
+  padding-bottom: 2rem; // Move down content because we have a fixed navbar that is 50px tall
 }
